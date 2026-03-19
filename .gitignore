@@ -2,6 +2,17 @@
 Vision_Language_Model_for_Image_Composition_corrected.pdf
 Project Proposal.pdf
 data/
+checkpoints/
+PSMNet/
+bootplace_like_data/
+reference paper/
+report&presentation/
+raw_cityscapes_tests/
+raw_cityscapes_tests_supportsurface/
+raw_cityscapes_tests_supportsurface_hard/
+
+model_can.ipynb
+model_support_con.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
