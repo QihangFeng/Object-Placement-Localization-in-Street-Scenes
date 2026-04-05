@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project
 Vision_Language_Model_for_Image_Composition_corrected.pdf
 Project Proposal.pdf
@@ -15,8 +14,8 @@ raw_cityscapes_tests_supportsurface_hard/
 model_can.ipynb
 model_support.ipynb
 
-=======
->>>>>>> 95a0fdeccfc6fb43287fc94ca9bb68ba9526551c
+*.rar
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
