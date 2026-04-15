@@ -1,0 +1,4 @@
+# Lightweight verification environment for bundled checkpoints and metrics only.
+# Install PyTorch from the official selector first if you need a wheel tailored to your CPU or CUDA setup.
+numpy==2.2.6
+torch>=2.0.0
