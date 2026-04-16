@@ -11,7 +11,7 @@
 - **Dataset:**  
     - we preprocess the [Cityscapes dataset](https://www.cityscapes-dataset.com/) to construct a **BOOTPLACE-like dataset ([Download](https://ualberta-my.sharepoint.com/personal/zchai3_ualberta_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzchai3%5Fualberta%5Fca%2FDocuments%2FECE740%2Dgroup3%2Ddataset&ga=1))** for training and evaluating this framework.
     - Please place the downloaded dataset folder under the project root directory as `./bootplace_like_data/`
-- **Pretrained Models**:
+- **Pretrained Models**:  
     We also provide pretrained checkpoints for the three model variants trained for 10 epochs. ([Download](https://drive.google.com/drive/folders/1GB2fwAEg-c6SwHDK4PckqtxZi9jKxCd9?usp=sharing)):  
 
     |Model|Description|
